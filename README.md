@@ -1,6 +1,8 @@
 ## Tutorial: Machine Learning with Text in scikit-learn
 
-Presented by [Kevin Markham](http://www.dataschool.io/about/) at PyData DC on October 7, 2016.
+Presented by [Kevin Markham](http://www.dataschool.io/about/) at PyData DC on October 7, 2016. Watch the complete [tutorial video](https://www.youtube.com/watch?v=vTaxdJ6VYWE) on YouTube.
+
+[![Watch the complete tutorial video on YouTube](youtube.jpg)](https://www.youtube.com/watch?v=vTaxdJ6VYWE "Machine Learning with Text in scikit-learn - PyData DC 2016")
 
 ### Description
 
